@@ -8,4 +8,5 @@ age income children car
 
 2) 43.00 5000.00 3.00 1.00
 
-(a) Use all statistical methods you know to solve this problem.  Are there any differences between the models?
+(a) Use all statistical methods you know 
+to solve this problem.  Are there any differences between the models?
